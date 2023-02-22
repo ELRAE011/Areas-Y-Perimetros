@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\bin\Debug\Clases3.exe.config
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\bin\Debug\Clases3.exe
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\bin\Debug\Clases3.pdb
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\obj\Debug\Clases3.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\obj\Debug\Clases3.exe
+C:\Users\Administrador\Documents\SharpDevelop Projects\Clases3\Clases3\obj\Debug\Clases3.pdb
+D:\Programacion 2\Clases3\Clases3\bin\Debug\Clases3.exe.config
+D:\Programacion 2\Clases3\Clases3\bin\Debug\Clases3.exe
+D:\Programacion 2\Clases3\Clases3\bin\Debug\Clases3.pdb
+D:\Programacion 2\Clases3\Clases3\obj\Debug\Clases3.csprojResolveAssemblyReference.cache
+D:\Programacion 2\Clases3\Clases3\obj\Debug\Clases3.exe
+D:\Programacion 2\Clases3\Clases3\obj\Debug\Clases3.pdb

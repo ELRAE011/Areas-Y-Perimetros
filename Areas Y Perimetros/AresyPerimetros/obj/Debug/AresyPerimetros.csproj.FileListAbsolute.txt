@@ -1,0 +1,6 @@
+D:\Programacion 2\Areas Y Perimetros\Clases3\bin\Debug\AresyPerimetros.exe.config
+D:\Programacion 2\Areas Y Perimetros\Clases3\bin\Debug\AresyPerimetros.exe
+D:\Programacion 2\Areas Y Perimetros\Clases3\bin\Debug\AresyPerimetros.pdb
+D:\Programacion 2\Areas Y Perimetros\Clases3\obj\Debug\AresyPerimetros.csprojResolveAssemblyReference.cache
+D:\Programacion 2\Areas Y Perimetros\Clases3\obj\Debug\AresyPerimetros.exe
+D:\Programacion 2\Areas Y Perimetros\Clases3\obj\Debug\AresyPerimetros.pdb
